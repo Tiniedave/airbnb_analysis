@@ -29,3 +29,5 @@ Results are discussed in a Medium blog available at the following link:
 
 https://adewoletomiwa.medium.com/data-analysis-of-seattle-airbnb-c8715dcbb07e
 ```
+Lincesing, Authors and Acknoledgements
+Anyone is free to use this code.
